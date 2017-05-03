@@ -19,21 +19,31 @@ controls: true
 ### Last one?
 ![Tire Pressure Light](images/tirePressureLight.jpg "Tire Pressure Light")
 --
-# Rule #1
+### Rule #1
+<br />
 ## Get more than one opinion
 --
-# Rule #2
+### Rule #2
+<br />
 ## If you can't get another opinion. At least don't get up-sold
 --
-# Rule #3
+### Rule #3
+<br />
 ## Do some research
 http://www.napaautocare.com/estimator.aspx
+
+YouTube
+
+Chilton or Haynes Manual
 --
-# Rule 4
-## Are they certified?
+### Rule #4
+<br />
+##Are they certified?
 ![ASE Certification](images/ase-certified-mechanic.png "ASE Certification")
 --
-## Certifications
+### Certifications
+
+
 Auto Maintenance, Light, Med, and Heavy Truck, Bus
 
 Damage Analysis, Consultant, Collision
@@ -44,6 +54,40 @@ Engine Machinist, Engine Performance, Exhaust
 
 Parts Specialist
 --
-# Rule 5
-
+### Rule #5
+<br />
 ## Ask for your old parts
+--
+### Preventative Maintenance
+
+Oil
+
+Tires
+
+Brakes
+
+Suspension
+
+Exterior
+
+--
+
+### DIY
+NAPA
+
+Auto Zone
+
+Advance Auto
+
+O'reilly Auto
+
+Pick-n-Pull
+--
+### What They Offer
+Advice
+
+Tool rental
+
+Check engine light reading
+
+Free basic installation
