@@ -91,3 +91,14 @@ Tool rental
 Check engine light reading
 
 Free basic installation
+--
+### Check Engine Light
+
+ODB2 94+
+
+Readers are cheap. < $5.00
+
+https://www.amazon.com/TOOGOO-Version-Bluetooth-Diagnostic-Windows/dp/B00BNO1GYG/ref=sr_1_8?s=automotive&ie=UTF8&qid=1493780955&sr=1-8&keywords=obd2+scanner
+--
+
+### 
